@@ -40,12 +40,4 @@ Real-time streaming pipeline built with Kafka and Spark Structured Streaming, wi
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kaviii8&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kaviii8's GitHub stats" />
-</p>
-
----
-
 <p align="center"><i>Based in Sri Lanka. Open to connecting on data projects and opportunities.</i></p>
