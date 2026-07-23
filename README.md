@@ -40,4 +40,4 @@ Real-time streaming pipeline built with Kafka and Spark Structured Streaming, wi
 
 ---
 
-<p align="center"><i>Based in Sri Lanka. Open to connecting on data projects and opportunities.</i></p>
+<p align="center"><i>Open to connecting on data projects and opportunities.</i></p>
