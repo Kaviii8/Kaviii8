@@ -22,7 +22,7 @@ Turning raw data into reliable pipelines and clear insight.
 
 ### Featured Projects
 
-**[Kafka–Spark Self-Healing Pipeline](https://github.com/Kaviii8/kafka-spark-self-healing-pipeline)**
+**[Kafka–Spark Self-Healing Pipeline](https://github.com/Kaviii8/real-time-self-healing-pipeline)**
 Real-time streaming pipeline built with Kafka and Spark Structured Streaming, with a predictive model that detects and recovers from pipeline failures before they cause downtime. Includes query optimization, PostgreSQL storage, and full Docker Compose deployment.
 
 **[Retail Sales Data Warehouse & Mining Project](https://github.com/Kaviii8/dmw-retail-warehouse-project)**
